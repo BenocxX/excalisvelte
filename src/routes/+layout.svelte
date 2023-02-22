@@ -2,6 +2,6 @@
   import '../app.postcss';
 </script>
 
-<main>
+<main class='h-screen container mx-auto prose'>
   <slot />
 </main>
